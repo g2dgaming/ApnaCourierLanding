@@ -1,0 +1,13 @@
+# ApnaCourier Robots.txt
+# https://apnacourier.in
+
+User-agent: *
+Allow: /
+Disallow: /auth/
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://apnacourier.in/sitemap.xml
+
+# Crawl delay (optional, for polite bots)
+Crawl-delay: 1
